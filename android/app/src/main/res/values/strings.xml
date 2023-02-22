@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mon-profil</string>
+    <string name="title_activity_main">mon-profil</string>
+    <string name="package_name">com.simplon.monprofil</string>
+    <string name="custom_url_scheme">com.simplon.monprofil</string>
+</resources>
